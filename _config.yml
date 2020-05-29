@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marvin Wohlfarth
+username: Marvin Wohlfarth
+user_title: Software Engineer
 email: mwohlfarth@pm.me
 description: Portfolio
 baseurl: "" # the subpath of your site, e.g. /blog
