@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Marvin Wohlfarth
+title: Portfolio of Marvin Wohlfarth
+description: Skillset and Experiences of Marvin Wohlfarth in Software Engineering.
 username: Marvin Wohlfarth
 user_title: Software Engineer
 email: mwohlfarth@pm.me
