@@ -4628,7 +4628,7 @@ sub, sup {
     justify-content: space-between
 }
 
-.user p {
+.user p , user-cv {
     font-size: 16px
 }
 
